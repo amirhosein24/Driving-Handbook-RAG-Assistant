@@ -1,0 +1,11 @@
+{
+  "__version__": {
+    "sentence_transformers": "5.4.0"
+  },
+  "default_prompt_name": "default",
+  "model_type": "SentenceTransformer",
+  "prompts": {
+    "default": "Represent the user's input."
+  },
+  "similarity_fn_name": "cosine"
+}
